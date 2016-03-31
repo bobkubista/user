@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+  <userentity active="true" email="bla@foo.bar"
+    encryptedpassword="123" name="Foo Bar" />
+    <userentity active="true" email="bla3@foo.bar"
+    encryptedpassword="134" name="Foo Bar3" />
+</dataset>
